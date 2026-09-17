@@ -4,14 +4,16 @@
 Course: CS203A
 
 ## Student Information
-Name : 曾煊致
+Name: TSENG HSUAN-CHIH  
+Student ID: 1141426
 
-Student ID : 1141426
-
-## About This Repository
+## Repository Description
 This repository is used to record what I learn in the CS203A course.
 
 ## Contents
 - Assignments
 - Notes
 - Practice
+
+## Personal Website
+[My Personal Website](https://tseng-hsuan-chih.github.io/)
