@@ -1,11 +1,9 @@
 # 11501_CS203A
 
 ## Course Information
-Course: CS203A
-
-content: Data Structure
-
-some concept in the class: array, vector, linked list, tree...
+Course: CS203A  
+Content: Data Structures  
+Some concepts in the class: arrays, vectors, linked lists, trees...
 
 ## Student Information
 Name: TSENG HSUAN-CHIH  
