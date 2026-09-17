@@ -2,7 +2,9 @@
 
 ## Course Information
 Course: CS203A
+
 content: Data Structure
+
 some concept in the class: array, vector, linked list, tree...
 
 ## Student Information
